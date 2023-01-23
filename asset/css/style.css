@@ -23,5 +23,10 @@ body {
     padding-top: 6px;
 }
 
+footer p {
+ color: white;
+ text-transform: uppercase;
+}
+
 
 
