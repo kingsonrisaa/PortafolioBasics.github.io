@@ -1,0 +1,71 @@
+/* Reset Padding */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Import Font Google */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.navcolor  {
+    background-color: #28a745;
+}
+
+.logo img {
+    width: 86pt;
+    height: 25pt;
+}
+
+main img{
+    width: 278pt;
+    height: 180pt;
+}
+
+.text-t h5 {
+    font-family: 'Roboto', serif;
+}
+
+.text-t p {
+    font-family: 'Roboto', serif;
+}
+
+
+.location p {
+    display: inline-block;
+}
+
+.price {
+    text-align: center;
+}
+
+.first-money {
+    
+    display: inline-block;
+    font-size: 16pt;
+    padding-left: 90px;
+}
+
+.second-money {
+    display: inline-block;
+    font-size: 20pt;
+    padding-left: 70px;
+    color: #28a745;
+}
+
+.background {
+    background-color: #28a745;
+}
+.background {
+    margin-top: 55px;
+    background-color: #28a745;
+}
+.background p{
+    font-size: 20pt;
+    text-align: center;
+    color: white;
+}
+
+.img-cuppon {
+    width: 82px;
+    height: 24px;
+}

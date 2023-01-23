@@ -1,0 +1,140 @@
+/* Reset all Property */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* End == Reset all Property */
+/* Import Font Google */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+/* End == Import Font Google */
+
+body {
+    background-color: black;
+    
+
+}
+.iguanaheader img {
+    width: 1280px;
+    height: 727px;
+    opacity: 1;
+
+}
+
+.iguanaheader {
+font-family: 'Raleway', sans-serif;
+color: white;
+font-size: 50px;
+text-align: center;
+
+}
+
+.sd{
+    height: 348px;
+    width: 100%;
+}
+.pc {
+    color: white;
+    width: 775px;
+    float: left;
+    padding: 90px;
+    font-family: 'Raleway', sans-serif;
+
+
+    
+
+}
+
+.sd img{
+    float: right;
+    width: 380px;
+    height: 237px;
+    display: inline-block;
+    padding-right: 85px;
+
+}
+
+.caracteristica h2 {
+    color: white;
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+    text-transform: uppercase;
+
+
+
+}
+.caracteristica {
+width: 1360px;
+height: 298px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+padding-top: 10px;
+}
+
+.galery {
+    padding: 20px;
+    padding-left: 150px;
+    
+}
+.galery img {
+width: 316px;
+height: 202px;
+opacity: 1;
+float: left;
+margin: 5px;
+}
+
+.uno  {
+    color: white;
+    width: 57px;
+    height: 37px;
+    display: flow-root
+
+
+}
+
+.containerfeature p {
+    font-size: 15px;
+    width: 108px;
+    
+}
+
+.dos {
+    color: white;
+}
+
+.tres {
+    color: white;
+}
+
+.caracteristica i {
+    color: white;
+
+    }
+.containerfeature {
+    float: left;
+    display: inline-block;
+    margin-left: 182px;
+    margin-top: 100px;
+    margin-right: 90px;
+}
+
+.footer {
+width: 1360px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.94;
+background-position: 1200px;
+display: flow-root;
+margin-top: 200px;
+
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    
+    }

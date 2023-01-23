@@ -1,0 +1,27 @@
+/* Reset values default */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+}
+
+.title {
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin: 40px;
+
+}
+#cardlastest {
+    padding-right: 27rem;
+    padding-top: 6px;
+}
+
+
+

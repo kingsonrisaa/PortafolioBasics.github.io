@@ -1,0 +1,65 @@
+/*  Reset Properties */
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    } 
+
+/* Import Fonts Style */
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap'); 
+
+.header {
+    height: 13em;
+    background-image: url(./assets/imgs/coffe1.png);
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    font-size: 2em;
+    padding: 1em;
+    text-align: right;
+    border: 2em solid white;
+
+}
+
+.header p {
+color: gray;
+font-family: 'Niconne', cursive;
+font-size: 1em;
+text-decoration: double;
+}
+.header h1 {
+    text-transform: uppercase;
+    color: black;
+    margin: 0px;
+    }
+    
+
+/* Product Style */
+
+.product p {
+    text-align: right;
+    border: 2em solid black;
+    font-style: italic;
+    font-size: medium;
+    }
+.product img{
+    padding: 0px; 
+    margin: 0px;
+    width: 350px;
+    background-color: transparent;
+    border: 4em solid white;
+    background-position: center;
+    
+}
+
+.footer {
+    background-color:darksalmon;
+    font-style: italic;
+    text-align: center;
+    text-decoration: double;
+
+}
+
+
+
